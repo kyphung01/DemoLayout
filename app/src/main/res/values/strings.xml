@@ -1,0 +1,99 @@
+<resources>
+    <string name="app_name">DemoLayout</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="author">
+        <item>JeJe</item>
+        <item>Yohachi</item>
+        <item>KIM Chul Hyun</item>
+        <item>Jim Davis</item>
+        <item>KUBO Mitsurou</item>
+        <item>Nasty Cat</item>
+        <item>Karasuma Wataru</item>
+        <item>Park Sung Woo</item>
+        <item>Tsubasa Anami</item>
+        <item>KONNO Azure</item>
+        <item>Kim Kwang Hyun</item>
+        <item>Ray Aoi</item>
+        <item>Hinata Tachibana</item>
+        <item>Sarasa Hara</item>
+        <item>Aimi Nakatani</item>
+        <item>Kokomi Sakura</item>
+        <item> Mika Osawa</item>
+        <item>Kazuki Asou</item>
+        <item>Rie Sakura</item>
+        <item>Mahiro Aine</item>
+    </string-array>
+    <string-array name="name">
+        <item>One piece</item>
+        <item>Connan</item>
+        <item>Doremon</item>
+        <item>Dragon ball</item>
+        <item>Naturo</item>
+        <item>Toriko</item>
+        <item>Q.E.D</item>
+        <item>Omakase</item>
+        <item>Arakure</item>
+        <item>Lạc vào ký</item>
+        <item>Tiến sỹ điên</item>
+        <item>Mad max</item>
+        <item>The hobbit</item>
+        <item>Harry porter</item>
+        <item>Edge of Tomorrow</item>
+        <item>Jungle book</item>
+        <item>Kungfu Panda</item>
+        <item>Virus Tiền</item>
+        <item>Sameless</item>
+        <item>Chị Dậu</item>
+    </string-array>
+    <string-array name="image">
+        <item>@drawable/img1</item>
+        <item>@drawable/img2</item>
+        <item>@drawable/img3</item>
+        <item>@drawable/img4</item>
+        <item>@drawable/img5</item>
+        <item>@drawable/img6</item>
+        <item>@drawable/img7</item>
+        <item>@drawable/img8</item>
+        <item>@drawable/img9</item>
+        <item>@drawable/img10</item>
+        <item>@drawable/img11</item>
+        <item>@drawable/img12</item>
+        <item>@drawable/img13</item>
+        <item>@drawable/img14</item>
+        <item>@drawable/img15</item>
+        <item>@drawable/img16</item>
+        <item>@drawable/img17</item>
+        <item>@drawable/img18</item>
+        <item>@drawable/img19</item>
+        <item>@drawable/img20</item>
+    </string-array>
+    <string-array name="list_item">
+        <item>Chap 1: Nữ Kiệt Oa Lân</item>
+        <item>Chap 2: Giằng Co</item>
+        <item>Chap 3: Vũ Khí Của Quân Hàn</item>
+        <item>Chap 4: Trận Chiến Ngắn Hạn</item>
+        <item>Chap 5: Chiếu Cáo của Mông Võ</item>
+        <item>Chap 6: Thế trận mới</item>
+        <item>Chap 7: Đệ nhị quân đoàn! Hành động</item>
+        <item>Chap 8: Tác dụng của chiến tượng</item>
+        <item>Chap 9: Nỗ lực cuối cùng</item>
+        <item>Chap 10: Chiến thuật mới</item>
+        <item>Chap 11: Nguy cơ thất thủ</item>
+        <item>Chap 12: Giữa biển quân thù</item>
+        <item>Chap 13: Immortal</item>
+        <item>Chap 14: Shutdown</item>
+        <item>Chap 15: Revenge</item>
+        <item>Chap 16: One hit</item>
+        <item>Chap 17: Rampage</item>
+        <item>Chap 18: Ace</item>
+        <item>Chap 19: Hexa kill</item>
+        <item>Chap 20: Legendary</item>
+        <item>Chap 21: One hit</item>
+        <item>Chap 22: One hit</item>
+        <item>Chap 23: One hit</item>
+        <item>Chap 24: One hit</item>
+        <item>Chap 25: One hit</item>
+
+    </string-array>
+    <string name="title_activity_detail">DetailActivity</string>
+</resources>
